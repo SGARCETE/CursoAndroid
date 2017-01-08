@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458400552740",
+    "firebase_url": "https://ejercicio-9ae36.firebaseio.com",
+    "project_id": "ejercicio-9ae36",
+    "storage_bucket": "ejercicio-9ae36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458400552740:android:b559920b60a89400",
+        "android_client_info": {
+          "package_name": "com.example.sgarcete.ejercicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458400552740-5vuo3dnujd3tq807p4pvhitduj81khuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sgarcete.ejercicio",
+            "certificate_hash": "78FE5AC1E69C944A26F57E6FA3A28A10D753290D"
+          }
+        },
+        {
+          "client_id": "458400552740-ffmetbp3lkc5a32jnnjkalldr0p95ir6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpxoLdOMwzQU047yFRk1NAG24krf_OxHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458400552740-ffmetbp3lkc5a32jnnjkalldr0p95ir6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
