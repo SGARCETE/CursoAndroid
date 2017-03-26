@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         //ubicarme = (Button)findViewById(R.id.ubicarme); Esto ahora lo hacemos con el bind
 
+
         /*ubicarme.setOnClickListener(new View.OnClickListener()
         {
             public void onClick(View view){
